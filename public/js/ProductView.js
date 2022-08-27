@@ -4,6 +4,7 @@ import Storage from "./Storage.js";
 const addNewProductBtn = document.getElementById('add-new-product');
 const searchInput = document.getElementById('search-input');
 const selectedSort = document.getElementById('sort-products');
+const inventoryTitle = document.getElementById('product-quantity');
 // const deleteProduct = document.getSelection('delete-product');
 
 class ProductView {

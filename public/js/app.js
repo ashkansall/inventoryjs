@@ -3,6 +3,7 @@ import ProductView from "./ProductView.js";
 
 
 document.addEventListener('DOMContentLoaded', () => {
+
     CatagoryView.setApp();
     ProductView.setApp();
     // create categories options
